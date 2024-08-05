@@ -1,0 +1,32 @@
+_repo: Familiensklaven-b-Roman_74153
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kretzer, Max
+    birthdate: 1854
+    deathdate: 1941
+    gutenberg_agent_id: '51311'
+    url: http://www.gutenberg.org/2009/agents/51311
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Max_Kretzer
+    - https://de.wikipedia.org/wiki/Max_Kretzer
+description: ''
+gutenberg_issued: '2024-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74153'
+language: de
+pgterms:marc905: 20211019103713kretzer
+pgterms:marc906: '1904'
+pgterms:marc907: de
+production_note: Hans Theyer and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aBerlin :$bVerlag Continent, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- 20th century'
+- !lcc 'PT'
+- GITenberg
+title: 'Familiensklaven : $b Roman'
+url: http://www.gutenberg.org/ebooks/74153
