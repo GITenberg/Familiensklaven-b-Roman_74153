@@ -1,5 +1,8 @@
 _repo: Familiensklaven-b-Roman_74153
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74153-h/images/cover.jpg
 creator:
   author:
     agent_name: Kretzer, Max
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Max_Kretzer
     - https://de.wikipedia.org/wiki/Max_Kretzer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74153#Familiensklaven-b-Roman
 gutenberg_issued: '2024-07-29'
 gutenberg_type: Text
 identifiers:
